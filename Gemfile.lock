@@ -46,8 +46,8 @@ PLATFORMS
   x86_64-linux-gnu
 
 DEPENDENCIES
-  rubocop (~> 1.88)
-  ruby-lsp (~> 0.26.10)
+  rubocop
+  ruby-lsp
 
 BUNDLED WITH
    2.4.20
