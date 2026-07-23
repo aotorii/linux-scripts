@@ -6,3 +6,11 @@ Metrics/CyclomaticComplexity:
   Max: 15
 Metrics/MethodLength:
   Enabled: false
+Layout/LineLength:
+  Enabled: false
+Layout/EmptyLinesAroundMethodBody:
+  Enabled: false
+Style/EmptyMethod:
+  Enabled: false
+Layout/TrailingEmptyLines:
+  Enabled: false
