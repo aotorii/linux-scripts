@@ -14,3 +14,5 @@ Style/EmptyMethod:
   Enabled: false
 Layout/TrailingEmptyLines:
   Enabled: false
+Metrics/AbcSize:
+  Enabled: false
