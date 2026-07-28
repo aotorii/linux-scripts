@@ -16,3 +16,5 @@ Layout/TrailingEmptyLines:
   Enabled: false
 Metrics/AbcSize:
   Enabled: false
+Naming/VariableNumber:
+  EnforcedStyle: snake_case
