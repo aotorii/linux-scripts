@@ -12,7 +12,8 @@ class Sieve
     while prime <= Math.sqrt(@num)
       result << prime
       array -= (prime**2).step(@num, prime).to_a
-      prime = array.delete(prime).min
+      array.delete(prime)
+      prime = array.min
     end
     result + array
   end
