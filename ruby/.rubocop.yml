@@ -18,3 +18,9 @@ Metrics/AbcSize:
   Enabled: false
 Naming/VariableNumber:
   EnforcedStyle: snake_case
+Metrics/PerceivedComplexity:
+  Enabled: false
+Metrics/BlockLength:
+  Enabled: false
+Metrics/CyclomaticComplexity:
+  Enabled: false
