@@ -24,3 +24,5 @@ Metrics/BlockLength:
   Enabled: false
 Metrics/CyclomaticComplexity:
   Enabled: false
+Naming/MethodParameterName:
+  Enabled: false
