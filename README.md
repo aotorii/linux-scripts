@@ -1,3 +1,3 @@
-> To build up a library is to create a life. It's never just a random collection of books.
+> I suppose, he would be able to look upon the sun itself and see its true nature, not by reflections in water or phantasms of it in an alien setting, but in and by itself in its own place.
 > 
-> — Carlos María Domínguez
+> — *Republic (516b)*, Plato
